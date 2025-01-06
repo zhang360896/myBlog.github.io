@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on Awesome Hugo blog</title>
-    <link>https://hba.sid.one/it/pages/</link>
-    <description>Recent content in Pages on Awesome Hugo blog</description>
+    <title>Pages on Harry Chang&#39;s blog</title>
+    <link>http://blog.harrychang.xyz/it/pages/</link>
+    <description>Recent content in Pages on Harry Chang&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="https://hba.sid.one/it/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="http://blog.harrychang.xyz/it/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chi Sono</title>
-      <link>https://hba.sid.one/it/pages/about/</link>
+      <link>http://blog.harrychang.xyz/it/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/it/pages/about/</guid>
+      <guid>http://blog.harrychang.xyz/it/pages/about/</guid>
       
       <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;

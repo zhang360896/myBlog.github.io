@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emoji on Awesome Hugo blog</title>
-    <link>https://hba.sid.one/tags/emoji/</link>
-    <description>Recent content in Emoji on Awesome Hugo blog</description>
+    <title>Emoji on Harry Chang&#39;s blog</title>
+    <link>http://blog.harrychang.xyz/tags/emoji/</link>
+    <description>Recent content in Emoji on Harry Chang&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hba.sid.one/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.harrychang.xyz/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://hba.sid.one/posts/emoji-support/</link>
+      <link>http://blog.harrychang.xyz/posts/emoji-support/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/emoji-support/</guid>
+      <guid>http://blog.harrychang.xyz/posts/emoji-support/</guid>
       
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>泛读</title>
-      <link>https://hba.sid.one/posts/blog-test/</link>
+      <link>http://blog.harrychang.xyz/posts/blog-test/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/blog-test/</guid>
+      <guid>http://blog.harrychang.xyz/posts/blog-test/</guid>
       
       <description>&lt;p&gt;283 月.202411:01&lt;/p&gt;
 &lt;p&gt;2024.03.28 2024.03.28 什么是手数以及如何计算外汇中的一手&lt;/p&gt;
@@ -35,18 +35,18 @@
 &lt;p&gt;外汇市场或交易所上的手是交易量的计量单位，是外汇市场上固定数量的基础货币。交易量始终以手数来表示，手数直接影响风险级别。外汇中一手的交易量越大，风险就越高。风险评估（风险管理）包含一个模型，籍此您能够根据估计的风险级别、波动性（止损水平）和杠杆比率来计算外汇市场中的最佳标准手数。请阅读此文，以了解此模型、它的使用方式以及交易员计算器如何提供帮助。&lt;/p&gt;
 &lt;p&gt;本文涵盖以下主题：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h0&#34;&gt;要点&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h1&#34;&gt;什么是外汇中的手？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h2&#34;&gt;外汇中的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h3&#34;&gt;如何计算外汇中的手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h4&#34;&gt;外汇交易的最大手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h5&#34;&gt;在外汇交易中使用的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h6&#34;&gt;哪些因素决定了外汇交易中的手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h7&#34;&gt;净值如何随着手数发生变化&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h8&#34;&gt;如何在 MT4 中设置手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h9&#34;&gt;在其他市场中一手指的是什么？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h10&#34;&gt;结论&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h11&#34;&gt;常见问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h0&#34;&gt;要点&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h1&#34;&gt;什么是外汇中的手？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h2&#34;&gt;外汇中的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h3&#34;&gt;如何计算外汇中的手数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h4&#34;&gt;外汇交易的最大手数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h5&#34;&gt;在外汇交易中使用的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h6&#34;&gt;哪些因素决定了外汇交易中的手数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h7&#34;&gt;净值如何随着手数发生变化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h8&#34;&gt;如何在 MT4 中设置手数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h9&#34;&gt;在其他市场中一手指的是什么？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h10&#34;&gt;结论&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h11&#34;&gt;常见问题&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;要点&#34;&gt;要点&lt;/h2&gt;
 &lt;ul&gt;

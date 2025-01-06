@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Awesome Hugo blog</title>
-    <link>https://hba.sid.one/posts/</link>
-    <description>Recent content in Posts on Awesome Hugo blog</description>
+    <title>Posts on Harry Chang&#39;s blog</title>
+    <link>http://blog.harrychang.xyz/posts/</link>
+    <description>Recent content in Posts on Harry Chang&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hba.sid.one/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.harrychang.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Table of content</title>
-      <link>https://hba.sid.one/posts/table-of-content/</link>
+      <link>http://blog.harrychang.xyz/posts/table-of-content/</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/table-of-content/</guid>
+      <guid>http://blog.harrychang.xyz/posts/table-of-content/</guid>
       
       <description>&lt;h2 id=&#34;table-of-content&#34;&gt;Table of content&lt;/h2&gt;
 &lt;p&gt;This theme supports displaying table of content (ToC) in blog posts.&lt;/p&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Math Typesetting - use Mathematical notation in blog posts</title>
-      <link>https://hba.sid.one/posts/math-typesetting/</link>
+      <link>http://blog.harrychang.xyz/posts/math-typesetting/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/math-typesetting/</guid>
+      <guid>http://blog.harrychang.xyz/posts/math-typesetting/</guid>
       
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using
 &lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;third party JavaScript libraries&lt;/a&gt;.&lt;/p&gt;</description>
@@ -45,10 +45,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://hba.sid.one/posts/markdown-syntax/</link>
+      <link>http://blog.harrychang.xyz/posts/markdown-syntax/</link>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/markdown-syntax/</guid>
+      <guid>http://blog.harrychang.xyz/posts/markdown-syntax/</guid>
       
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       
@@ -56,10 +56,10 @@
     
     <item>
       <title>Rich Content</title>
-      <link>https://hba.sid.one/posts/rich-content/</link>
+      <link>http://blog.harrychang.xyz/posts/rich-content/</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/rich-content/</guid>
+      <guid>http://blog.harrychang.xyz/posts/rich-content/</guid>
       
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
       
@@ -67,10 +67,10 @@
     
     <item>
       <title>Placeholder Text</title>
-      <link>https://hba.sid.one/posts/placeholder-text/</link>
+      <link>http://blog.harrychang.xyz/posts/placeholder-text/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/placeholder-text/</guid>
+      <guid>http://blog.harrychang.xyz/posts/placeholder-text/</guid>
       
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
@@ -78,10 +78,10 @@
     
     <item>
       <title>Emoji Support</title>
-      <link>https://hba.sid.one/posts/emoji-support/</link>
+      <link>http://blog.harrychang.xyz/posts/emoji-support/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/emoji-support/</guid>
+      <guid>http://blog.harrychang.xyz/posts/emoji-support/</guid>
       
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
       
@@ -89,10 +89,10 @@
     
     <item>
       <title>泛读</title>
-      <link>https://hba.sid.one/posts/blog-test/</link>
+      <link>http://blog.harrychang.xyz/posts/blog-test/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/blog-test/</guid>
+      <guid>http://blog.harrychang.xyz/posts/blog-test/</guid>
       
       <description>&lt;p&gt;283 月.202411:01&lt;/p&gt;
 &lt;p&gt;2024.03.28 2024.03.28 什么是手数以及如何计算外汇中的一手&lt;/p&gt;
@@ -104,18 +104,18 @@
 &lt;p&gt;外汇市场或交易所上的手是交易量的计量单位，是外汇市场上固定数量的基础货币。交易量始终以手数来表示，手数直接影响风险级别。外汇中一手的交易量越大，风险就越高。风险评估（风险管理）包含一个模型，籍此您能够根据估计的风险级别、波动性（止损水平）和杠杆比率来计算外汇市场中的最佳标准手数。请阅读此文，以了解此模型、它的使用方式以及交易员计算器如何提供帮助。&lt;/p&gt;
 &lt;p&gt;本文涵盖以下主题：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h0&#34;&gt;要点&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h1&#34;&gt;什么是外汇中的手？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h2&#34;&gt;外汇中的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h3&#34;&gt;如何计算外汇中的手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h4&#34;&gt;外汇交易的最大手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h5&#34;&gt;在外汇交易中使用的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h6&#34;&gt;哪些因素决定了外汇交易中的手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h7&#34;&gt;净值如何随着手数发生变化&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h8&#34;&gt;如何在 MT4 中设置手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h9&#34;&gt;在其他市场中一手指的是什么？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h10&#34;&gt;结论&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hba.sid.one/posts/blog-test/#h11&#34;&gt;常见问题&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h0&#34;&gt;要点&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h1&#34;&gt;什么是外汇中的手？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h2&#34;&gt;外汇中的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h3&#34;&gt;如何计算外汇中的手数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h4&#34;&gt;外汇交易的最大手数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h5&#34;&gt;在外汇交易中使用的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h6&#34;&gt;哪些因素决定了外汇交易中的手数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h7&#34;&gt;净值如何随着手数发生变化&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h8&#34;&gt;如何在 MT4 中设置手数&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h9&#34;&gt;在其他市场中一手指的是什么？&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h10&#34;&gt;结论&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h11&#34;&gt;常见问题&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;要点&#34;&gt;要点&lt;/h2&gt;
 &lt;ul&gt;
