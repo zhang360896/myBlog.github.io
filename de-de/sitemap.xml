@@ -49,11 +49,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-gb"
-                href="http://blog.harrychang.xyz/posts/table-of-content/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ru-ru"
                 href="http://blog.harrychang.xyz/ru-ru/posts/table-of-content/"
                 />
@@ -72,13 +67,13 @@
     <lastmod>2024-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr-fr"
-                href="http://blog.harrychang.xyz/fr-fr/posts/"
+                hreflang="en-gb"
+                href="http://blog.harrychang.xyz/posts/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-gb"
-                href="http://blog.harrychang.xyz/posts/"
+                hreflang="fr-fr"
+                href="http://blog.harrychang.xyz/fr-fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -103,11 +98,6 @@
   </url><url>
     <loc>http://blog.harrychang.xyz/de-de/posts/math-typesetting/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="http://blog.harrychang.xyz/posts/math-typesetting/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -148,11 +138,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-gb"
-                href="http://blog.harrychang.xyz/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ru-ru"
                 href="http://blog.harrychang.xyz/ru-ru/posts/markdown-syntax/"
                 />
@@ -181,11 +166,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-gb"
-                href="http://blog.harrychang.xyz/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ru-ru"
                 href="http://blog.harrychang.xyz/ru-ru/posts/rich-content/"
                 />
@@ -202,11 +182,6 @@
   </url><url>
     <loc>http://blog.harrychang.xyz/de-de/posts/placeholder-text/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="http://blog.harrychang.xyz/posts/placeholder-text/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -272,11 +247,6 @@
                 rel="alternate"
                 hreflang="pt-br"
                 href="http://blog.harrychang.xyz/pt-br/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-gb"
-                href="http://blog.harrychang.xyz/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"

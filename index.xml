@@ -6,134 +6,23 @@
     <description>Recent content in Home on Harry Chang&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.harrychang.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.harrychang.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Table of content</title>
-      <link>http://blog.harrychang.xyz/posts/table-of-content/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <title>2024小结</title>
+      <link>http://blog.harrychang.xyz/posts/2024%E5%B0%8F%E7%BB%93/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.harrychang.xyz/posts/table-of-content/</guid>
+      <guid>http://blog.harrychang.xyz/posts/2024%E5%B0%8F%E7%BB%93/</guid>
       
-      <description>&lt;h2 id=&#34;table-of-content&#34;&gt;Table of content&lt;/h2&gt;
-&lt;p&gt;This theme supports displaying table of content (ToC) in blog posts.&lt;/p&gt;
-&lt;h2 id=&#34;parameters&#34;&gt;Parameters&lt;/h2&gt;
-&lt;p&gt;You can manage a ToC with two parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;global &lt;code&gt;toc&lt;/code&gt; parameter;&lt;/li&gt;
-&lt;li&gt;post &lt;code&gt;toc&lt;/code&gt; parameter.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The post &lt;code&gt;toc&lt;/code&gt; parameter has higher priority than the global &lt;code&gt;toc&lt;/code&gt; parameter.&lt;/p&gt;
-&lt;h2 id=&#34;enable-table-of-content-on-all-posts&#34;&gt;Enable table of content on all posts&lt;/h2&gt;
-&lt;p&gt;To enable ToC on all posts (globally) set parameter &lt;code&gt;toc&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in &lt;code&gt;hugo.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;params&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;]&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nx&#34;&gt;toc&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;To disable ToC globally, simply ignore the &lt;code&gt;toc&lt;/code&gt; parameter or set it to &lt;code&gt;false&lt;/code&gt;.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Math Typesetting - use Mathematical notation in blog posts</title>
-      <link>http://blog.harrychang.xyz/posts/math-typesetting/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.harrychang.xyz/posts/math-typesetting/</guid>
-      
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using
-&lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;third party JavaScript libraries&lt;/a&gt;.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://blog.harrychang.xyz/posts/markdown-syntax/</link>
-      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.harrychang.xyz/posts/markdown-syntax/</guid>
-      
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://blog.harrychang.xyz/posts/rich-content/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.harrychang.xyz/posts/rich-content/</guid>
-      
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>http://blog.harrychang.xyz/posts/placeholder-text/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.harrychang.xyz/posts/placeholder-text/</guid>
-      
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>http://blog.harrychang.xyz/posts/emoji-support/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.harrychang.xyz/posts/emoji-support/</guid>
-      
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>泛读</title>
-      <link>http://blog.harrychang.xyz/posts/blog-test/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.harrychang.xyz/posts/blog-test/</guid>
-      
-      <description>&lt;p&gt;283 月.202411:01&lt;/p&gt;
-&lt;p&gt;2024.03.28 2024.03.28 什么是手数以及如何计算外汇中的一手&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://cdn.litemarkets.com/cache/uploads/blog_post/blog_posts/how-to-calculate-lot/what-is-lot.jpg?q=75&amp;amp;w=1000&amp;amp;s=8637d697cc3259292040af89708f450f&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Oleg Tkachenkohttps://www.litefinance.org/zh/blog/authors/oleg-tkachenko/&lt;/p&gt;
-&lt;p&gt;[&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://www.litefinance.org/assets/2d47d2c9/images/header-logo-litefinance.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;](&lt;a href=&#34;https://www.litefinance.org/assets/2d47d2c9/images/header-logo-litefinance.png&#34;&gt;https://www.litefinance.org/assets/2d47d2c9/images/header-logo-litefinance.png&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;外汇市场或交易所上的手是交易量的计量单位，是外汇市场上固定数量的基础货币。交易量始终以手数来表示，手数直接影响风险级别。外汇中一手的交易量越大，风险就越高。风险评估（风险管理）包含一个模型，籍此您能够根据估计的风险级别、波动性（止损水平）和杠杆比率来计算外汇市场中的最佳标准手数。请阅读此文，以了解此模型、它的使用方式以及交易员计算器如何提供帮助。&lt;/p&gt;
-&lt;p&gt;本文涵盖以下主题：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h0&#34;&gt;要点&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h1&#34;&gt;什么是外汇中的手？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h2&#34;&gt;外汇中的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h3&#34;&gt;如何计算外汇中的手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h4&#34;&gt;外汇交易的最大手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h5&#34;&gt;在外汇交易中使用的手数：构建最佳风险管理系统&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h6&#34;&gt;哪些因素决定了外汇交易中的手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h7&#34;&gt;净值如何随着手数发生变化&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h8&#34;&gt;如何在 MT4 中设置手数&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h9&#34;&gt;在其他市场中一手指的是什么？&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h10&#34;&gt;结论&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.harrychang.xyz/posts/blog-test/#h11&#34;&gt;常见问题&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;要点&#34;&gt;要点&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;在外汇中，“手” 是衡量交易员所建立的货币头寸交易量的标准单位，它直接影响风险级别。&lt;/li&gt;
-&lt;li&gt;一标准手通常是 100,000 个账户基础货币单位。还有更小的手数，包括迷你手（0.1 个标准手或 10,000 个单位）、微型手（0.01 个标准手或 1,000 个单位）和纳米手（0.001 个标准手或 100 个单位）。&lt;/li&gt;
-&lt;li&gt;是否使用更小的手数取决于交易员的风险管理策略和账户类型。例如，美分账户允许使用纳米手进行交易，但利润相应较小。&lt;/li&gt;
-&lt;li&gt;经纪商可以提供不同的手数，从而帮助交易员在不使用杠杆的情况下减少最低入金金额。&lt;/li&gt;
-&lt;li&gt;手的概念不仅适用于货币，还适用于其他交易资产，例如石油。交易员在确定头寸规模时必须了解其经纪商的规范和杠杆规则。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;什么是外汇中的手&#34;&gt;什么是外汇中的手？&lt;/h2&gt;
-&lt;p&gt;通常意义上，“手” 是衡量交易员开立的货币头寸数量的标准单位。这是用于投资买入货币以便以后以更高价格卖出的资金金额。手数计算是风险管理系统的一个要素。了解什么是手数对于建立平衡的交易系统至关重要。&lt;/p&gt;
-&lt;h3 id=&#34;1-手是多少钱&#34;&gt;1 手是多少钱？&lt;/h3&gt;
-&lt;p&gt;在外汇交易中，您只能以一定数量的交易单位（称为手）开仓。例如，交易员不能买入 1,000 欧元；他们可以买入 1 手、2 手或 0.01 手等。根据手数定义，手是用于定义交易资产合约规模的术语。它是交易规模，即交易员可以买入或卖出的交易资产（货币、原油等）量。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;**示例。**1 桶原油的价格是 40 美元。交易员在设置买入或卖出订单时，他 / 她不指定桶数，而用手数来定义交易量。手是由固定桶数构成的合约规模，已列于合约规范中。每位经纪商的合约规模都不同。一位经纪商的一手为 10 桶；另一位经纪商的一手为 100 桶。在这两种情况下，以 1 手的交易量进行交易。在第一种情况下，意味着交易 10 桶；在第二种情况下，意味着交易 100 桶。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;外汇中的手数构建最佳风险管理系统&#34;&gt;&lt;strong&gt;外汇中的手数：构建最佳风险管理系统&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;让我们来了解外汇中的一手是多少。&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;主题2024年小结&#34;&gt;主题：2024年小结&lt;/h1&gt;
+&lt;h2 id=&#34;市场近况&#34;&gt;市场近况&lt;/h2&gt;
+&lt;p&gt;随着懂王上台临近，有趣的地方来了，近期中美市场都开始出现回撤，我愿认为是对懂大聪明所带来不确定性的反应，毕竟这位大佬充满了不落俗套的想象力。恐惧源于未知，因此放慢买入节奏，适度落袋盈利，持币以应万变将更适合应对短中期的未知状态，将继续保持5成总风险仓位，静待更好的配置机会。&lt;/p&gt;
+&lt;h2 id=&#34;个人心得&#34;&gt;个人心得&lt;/h2&gt;
+&lt;p&gt;回望2024年依然手持积极学习、独立思考、投资实践这三板斧继续前行。思考学习方面，阅读了20多本各类书籍，其中以历史和经济类居多，佐以少量小说、哲学类书籍，就像享用一盘混合沙拉，味美且营养。其中印象比较深刻的书主要有《布局天下》、《道德经》、《投资至简》、《国家为什么会失败》等，《布局天下》是一本结合我国“四边”+“四角”的地理特点讲述中国军事战争史的书籍，得出了图中原者，多为先据四角后东西扩展，横纵构成相邻犄角再统一天下，视角纵贯时空，再配合《孙子兵法》，令人对很多决定历史大战局的理解豁然开朗，非常值得深读细读；《道德经》是老子传世的一部神作，短短数千字说尽天道自然，给人一种大器免成的空然感，非常适合事业家庭趋于稳定的中年人品读以充盈内心世界，可与《当下的力量》互为辅佐。人到中年，虚其心、实其腹、弱其志、强其骨，不亦乐乎。在此书启发下，本人坚持了近10个月的无氧抗阻训练和健身知识学习，从最开始卧推40KG、引体拉不动的小弱鸡，增长到卧推70KG、引体4个、深蹲70KG做组，希望2025年能卧推到90KG以上，同时将体脂降到20%以下；《国家为什么会失败》是24年诺奖获得者的代表作之一，基本上是朝鲜等独裁国家的小黑子，列举了全球古今各种例子以讲述权力过于集中的榨取制度终将导致朝权更替国家完蛋，只有以美国为代表的广纳式制度和破坏式创新能保持国家的持续进步和活力，这个结论目前本人知识有限，无法置评。《投资至简》全书核心就是所有资产的当前价格就是未来折现的反映，如何确定这个折现逻辑就靠投资者各显神通了。&lt;br&gt;
+投资方面，2024年整体配置收益为15.15%，略微跑赢沪深300指数， 不过考虑到去年平均仓位不到5成，因而总体收益还是可以的。2024年的主要收获有三个方面，一是建立了个人的笔记系统用于对知识的归纳整理，并且靠该系统成功支持本人圆满完成了香港之行的各项计划任务，同时也记录了不少日常投资学习和思考心得随时备查，并引入大语言模型进行整理归纳。二是推进了家庭资产全球化配置的进度，目前已将A股仓位下降至不到4成，逐步纳入更多种类优质股权资产，虽然绝大多数资产配置都是股权和指数，但依然能起到些许对冲的效果。三是持续完善了辅助量化交易系统，其中监控子系统助力在9月25号把握到了A股上涨，在节前快速加仓到9成，有幸体验了一天浮盈小一年工资的刺激，并在节后及时退回到3成仓位，今年大部分A股盈利均来自这短短1周多的收益，大A作为投资坟场名不虚传。&lt;/p&gt;
+&lt;p&gt;愿2025资产稳步增值，肌肉线条越明显，头脑判断更灵光。&lt;/p&gt;
+&lt;h2 id=&#34;重点摘要&#34;&gt;重点摘要&lt;/h2&gt;
+&lt;h2 id=&#34;原文链接&#34;&gt;原文链接&lt;/h2&gt;</description>
       
     </item>
     

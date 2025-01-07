@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#Blog on Harry Chang&#39;s blog</title>
+    <link>http://localhost:1313/tags/%23blog/</link>
+    <description>Recent content in #Blog on Harry Chang&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://localhost:1313/tags/%23blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Untitled</title>
+      <link>http://localhost:1313/posts/test/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/test/test/</guid>
+      
+      <description>&lt;h1 id=&#34;主题&#34;&gt;主题：&lt;/h1&gt;
+&lt;h2 id=&#34;总体概述&#34;&gt;总体概述&lt;/h2&gt;
+&lt;h2 id=&#34;个人心得&#34;&gt;个人心得&lt;/h2&gt;
+&lt;h2 id=&#34;重点摘要&#34;&gt;重点摘要&lt;/h2&gt;
+&lt;h2 id=&#34;原文链接&#34;&gt;原文链接&lt;/h2&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
